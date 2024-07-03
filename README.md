@@ -8,10 +8,7 @@ A simple command-line based slot machine game implemented in Python.
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-2.Navigate to the project directory:
+2.Navigate to the project directory and run the game script:
    ```bash
    cd your-repo
-   
-3.Run the game script:
-  
-  python main.py
+   python main.py
